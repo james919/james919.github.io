@@ -86,7 +86,7 @@ google_ad_slot           :
 author:
   name             : "James Wright"
   avatar           : "bio-photo.jpg"
-  bio              : "One of the best at putting the Effect in Dunning–Kruger."
+  bio              : "And you may ask yourself, \"Well... How did I get here?\""
   location         : "Raleigh, NC"
   email            :
   uri              :
@@ -170,7 +170,7 @@ kramdown:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/New_York
 
