@@ -1,6 +1,5 @@
 ---
 title: Swift Tuples vs Structs
-layout: default
 permalink: swift-tuples-vs-structs
 ---
 

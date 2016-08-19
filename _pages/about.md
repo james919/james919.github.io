@@ -12,7 +12,8 @@ I love iOS and firmware development. I'm not really big on web development. This
 I'm a software developer from Raleigh, NC. This is where I put things that I want to share and remember later.
 
 #### The Author
-I've been an iOS developer for various startups since 2011. I cut my teeth on C and C++ a long time ago. Object Oriented Programming was a new-ish thing. I majored in Computer Science. The bubble burst. I majored in everything else. I decided I should graduate. I got an internship. I wrote myself into obsolescence with a C# utility. I majored in CSC again. I got a job developing mobile games. I joined a startup as the sole iOS dev. I took a wrong turn into SEO. I joined my current startup as the second iOS dev. I decided to start a blog.
+I first 
+I've been an iOS developer for various startups since 2011. I cut my teeth on C and C++ a long time ago on an [Intel 486/66](https://en.wikipedia.org/wiki/Intel_80486). Object Oriented Programming was just beginning to save the world by becoming mainstream. I majored in Computer Science. The bubble burst. I majored in everything else. I majored in CSC again. I got a job developing mobile games. I joined a startup as the sole iOS dev. I took a wrong turn into SEO. I joined my current startup as the second iOS dev. I decided to start a blog.
 
 And here I am.
 
